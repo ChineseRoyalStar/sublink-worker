@@ -4,5 +4,5 @@ main = "src/index.js"
 compatibility_date = "2024-07-24"
 compatibility_flags = ["nodejs_compat"]
 kv_namespaces = [
-  { "binding": "KV_BINDING", "id": "06e2ad00b0da48ae8068c691015e9e89"}
+  { "binding": "sublink-worker-SUBLINK_KV", "id": "06e2ad00b0da48ae8068c691015e9e89"}
 ]
